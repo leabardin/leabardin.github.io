@@ -12,11 +12,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+				<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 				<key>dateExpires</key>
-				<string>08/01/2023</string>
+				<string>09/08/2022</string>
 				<key>type</key>
-				<string>Apple Distribution</string>
+				<string>Apple Development</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -28,11 +28,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>App.framework</string>
@@ -52,11 +52,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>FBLPromises.framework</string>
@@ -76,11 +76,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>FMDB.framework</string>
@@ -100,11 +100,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseAuth.framework</string>
@@ -124,11 +124,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseCore.framework</string>
@@ -148,11 +148,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseCoreDiagnostics.framework</string>
@@ -172,11 +172,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseFirestore.framework</string>
@@ -196,11 +196,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseStorage.framework</string>
@@ -220,11 +220,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>Flutter.framework</string>
@@ -244,11 +244,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>GTMSessionFetcher.framework</string>
@@ -268,11 +268,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>GoogleDataTransport.framework</string>
@@ -292,11 +292,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>GoogleUtilities.framework</string>
@@ -316,11 +316,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>Toast.framework</string>
@@ -340,11 +340,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>absl.framework</string>
@@ -364,11 +364,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>flutter_keyboard_visibility.framework</string>
@@ -388,11 +388,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>fluttertoast.framework</string>
@@ -412,11 +412,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>grpc.framework</string>
@@ -436,11 +436,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>grpcpp.framework</string>
@@ -460,11 +460,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>image_picker.framework</string>
@@ -484,11 +484,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>integration_test.framework</string>
@@ -508,11 +508,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>leveldb.framework</string>
@@ -532,11 +532,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>nanopb.framework</string>
@@ -556,11 +556,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>openssl_grpc.framework</string>
@@ -580,11 +580,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>path_provider.framework</string>
@@ -604,11 +604,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>share_plus.framework</string>
@@ -628,11 +628,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>shared_preferences.framework</string>
@@ -652,11 +652,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>sqflite.framework</string>
@@ -676,11 +676,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>url_launcher.framework</string>
@@ -700,11 +700,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A5E5543032FACA00AB96A02D77009F4F04D46684</string>
+						<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 						<key>dateExpires</key>
-						<string>08/01/2023</string>
+						<string>09/08/2022</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>webview_flutter_wkwebview.framework</string>
@@ -724,7 +724,7 @@
 				<key>com.apple.developer.team-identifier</key>
 				<string>99US6YKRWV</string>
 				<key>get-task-allow</key>
-				<false/>
+				<true/>
 				<key>keychain-access-groups</key>
 				<array>
 					<string>99US6YKRWV.com.company.letsang</string>
@@ -735,9 +735,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>99d9aac0-4048-4a52-8d9a-98dc8a2aaee5</string>
+				<string>0a83ec5e-a427-4db2-964f-5c4e3dfb839d</string>
 				<key>name</key>
-				<string>Jacques Tsang</string>
+				<string>jtsang</string>
 			</dict>
 			<key>team</key>
 			<dict>

@@ -16,14 +16,14 @@
 		<string>https://leabardin.github.io/full_size_img.png</string>
 	</dict>
 	<key>method</key>
-	<string>ad-hoc</string>
+	<string>development</string>
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>com.company.letsang</key>
-		<string>Jacques Tsang</string>
+		<string>jtsang</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>Apple Distribution</string>
+	<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
