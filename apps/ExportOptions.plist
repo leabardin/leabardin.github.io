@@ -23,7 +23,7 @@
 		<string>jtsang</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>E8310709CBD633F5D53CEF89E63C0D7961BF15AF</string>
+	<string>Apple Development</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
